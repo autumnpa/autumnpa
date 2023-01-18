@@ -21,22 +21,25 @@ Web Design/Development is an art, one that requires creativity, attention to det
 
 When I'm not staring at a screen you can find me in the garden 🪴 or winning a game of Scrabble! 🔠📚  
   
-
-<br/>  
+<br>
+<hr>
+<br>
 
 
 ### Currently:  
+
+
 - 👩‍💻 Rebuilding my portfolio  
   
 
-- 🎓 In my final year of study  
+- 🎓 In my final year of study - Class of 2023
   
 
 - 🌱 Learning: Databases, Advanced JavaScript, JSON, Git  
 
-
-<br/>  
-
+<br>
+<hr>
+<br>
 
 ### Languages and Tools  
   
