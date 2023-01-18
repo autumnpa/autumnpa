@@ -21,7 +21,6 @@ Web Design/Development is an art, one that requires creativity, attention to det
 
 When I'm not staring at a screen you can find me in the garden 🪴 or winning a game of Scrabble! 🔠📚  
   
-<br>
 <hr>
 <br>
 
@@ -37,7 +36,6 @@ When I'm not staring at a screen you can find me in the garden 🪴 or winning a
 
 - 🌱 Learning: Databases, Advanced JavaScript, JSON, Git  
 
-<br>
 <hr>
 <br>
 
